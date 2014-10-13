@@ -1,0 +1,8 @@
+require_relative "mathmas/monkey"
+require_relative "mathmas/version"
+require_relative "mathmas/core/basic"
+require_relative "mathmas/core/number"
+require_relative "mathmas/core/symbol"
+require_relative "mathmas/core/expression"
+require_relative "mathmas/core/function"
+require_relative "mathmas/plot/plot"
