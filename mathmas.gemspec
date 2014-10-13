@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Naoki Nishida"]
   spec.email         = ["domitry@gmail.com"]
   spec.summary       = %q{Gem for Symbolic mathematics}
-  spec.description   = %q{Symblic Mathmatics library inspired by SymPy and dxdy}
+  spec.description   = %q{Symblic Mathmatics library inspired by SymPy and dydx}
   spec.homepage      = "https://github.com/domitry/mathmas"
   spec.license       = "MIT"
 
