@@ -4,6 +4,8 @@ Mathmas is a gem for Symbolic Mathematics inspired by [SymPy](https://github.com
 
 The word "Mathmas" comes from "ますます"(Mas-Mas) which means "more and more" in Japanese.
 
+**This gem is still on progress. See [the notebook](http://nbviewer.ipython.org/github/domitry/mathmas/blob/master/examples/Mathmas_develop.ipynb) to overview the current status.**
+
 ## Quick Start
 
 Run the code below to install Mathmas.
